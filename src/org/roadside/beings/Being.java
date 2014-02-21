@@ -25,4 +25,5 @@ public class Being {
     public int attrFive;
     public int attrSix;
     public int attrSeven;
+    public String[] description;
 }
