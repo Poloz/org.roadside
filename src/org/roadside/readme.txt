@@ -14,3 +14,5 @@ Mathematics for computer science by Eric Lehman and Tom Leighton
 
 http://www.openglsuperbible.com/
 http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
+
+https://courses.edx.org/dashboard
