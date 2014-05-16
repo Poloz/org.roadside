@@ -16,3 +16,4 @@ http://www.openglsuperbible.com/
 http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
 
 https://courses.edx.org/dashboard
+http://brutal.d3.ru/comments/556875/
