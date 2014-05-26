@@ -17,3 +17,9 @@ http://www.drdobbs.com/parallel/graphics-programming-black-book/184404919
 
 https://courses.edx.org/dashboard
 http://brutal.d3.ru/comments/556875/
+
+http://habrahabr.ru/company/yandex/blog/208120/
+http://habrahabr.ru/post/223823/
+http://habrahabr.ru/company/nanosoft/blog/224107/
+http://habrahabr.ru/post/216153/
+http://habrahabr.ru/post/224087/
