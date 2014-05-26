@@ -23,3 +23,5 @@ http://habrahabr.ru/post/223823/
 http://habrahabr.ru/company/nanosoft/blog/224107/
 http://habrahabr.ru/post/216153/
 http://habrahabr.ru/post/224087/
+
+http://all-hail-king.livejournal.com/
