@@ -25,3 +25,9 @@ http://habrahabr.ru/post/216153/
 http://habrahabr.ru/post/224087/
 
 http://all-hail-king.livejournal.com/
+
+You can start by reading Donald Knuth's "The Art of Computer Programming", 
+then Kernigan&Ritchie's "C Programming Language". The Bjarne Stroustrup's "C++", 
+then several other books regarding Programming Templates, "Effective C++" and "More Effective C++". 
+University's "Computer Science" class is good as well but definitely not enough.
+After all that you can specialize in iOS or Android development.
